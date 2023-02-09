@@ -123,8 +123,8 @@
                         position: absolute;
                         text-align: center;
                         width: 307px;
-                        margin-left: -(307px / 2);
-                        margin-top: -(299px / 2);
+                        margin-left: calc(-307px / 2);
+                        margin-top: calc(-299px / 2);
                         user-select: none;
                         figure {
 

@@ -1302,6 +1302,7 @@
 }
 #wrap #footer .container .gap .content .foot-row1 a {
   margin: 0 20px;
+  position: relative;
 }
 #wrap #footer .container .gap .content .foot-row1 a i {
   font-size: 22px;
